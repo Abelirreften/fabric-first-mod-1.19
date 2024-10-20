@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:tanzanite_ore",
+    "tutorialmod:abelirre_block",
+    "tutorialmod:deepslate_tanzanite_ore",
+    "tutorialmod:deepslate_tanzanite_block"
+  ]
+}

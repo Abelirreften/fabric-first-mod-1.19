@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
+  "item.tutorialmod.tanzanite": "Tanzanite",
+  "item.tutorialmod.abelirre": "Abelirre",
+  "item.tutorialmod.richupan": "Richupan",
+
+  "block.tutorialmod.abelirre_block": "Bloque de Abelirre",
+  "block.tutorialmod.calabaza_abel": "Calabaza Pálida",
+  "block.tutorialmod.tanzanite_ore": "Tanzanite Ore",
+  "block.tutorialmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.tutorialmod.tanzanite_block": "Tanzanite Block",
+
+  "itemgroup.tanzanite": "Tanzanite Item Group",
+  "itemgroup.abelirre": "Abelirre Custom Item Group"
+
+}
